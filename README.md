@@ -18,8 +18,10 @@ nothing@hoang:~$ lai-hoang > README.md
 - I study computer science and engineering at the university, but I don't know anything about it, including programming and related issues.<br>
 - I like it when you wear glasses like in the picture.
 <br>
-
 <br>
+<br>
+<br>
+
 **Contact me**
 <img align="right" src="https://lanyard.cnrad.dev/api/470852879855648769?theme=dark&bg=3A405A&hideDiscrim=true&borderRadius=30px" />
 - [Discord](https://discord.com/users/470852879855648769)
@@ -31,7 +33,7 @@ nothing@hoang:~$ lai-hoang > README.md
 <br>
 <br>
 
-<p align="center"> view check =))<br><br><img src="https://count.getloli.com/get/@laihoang?theme=moebooru-h" /></p>
+<p align="center"> profile view =))<br><br><img src="https://count.getloli.com/get/@laihoang?theme=moebooru-h" /></p>
 
 <!--
 **Lai-Hoang/lai-hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
