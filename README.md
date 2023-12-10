@@ -7,7 +7,7 @@ nothing@hoang:~$ lai-hoang > README.md
 
 <p align="center">
 <img src="https://media.discordapp.net/attachments/797801880055054367/1183243223926321243/113845495_p1.jpg?ex=6587a020&is=65752b20&hm=9de4c89c3b27d8cf858b586560d1b5b5eaa7a4ab9c1868b2a543a1ad043ec3a0&=&format=webp&width=1366&height=768" />
-</p><br><br><br>
+</p><br><br>
 
 **About me**
 <img align="right" src="https://media.discordapp.net/attachments/797801880055054367/1183254635050455080/image.png?ex=6587aac0&is=657535c0&hm=0e11cbab5964c649e93ed57194e64857f138bb791202643f266b7001bb822e57&=&format=webp&quality=lossless&width=500&height=300" />
