@@ -26,6 +26,13 @@ nothing@hoang:~$ lai-hoang > README.md
 - Facebook
 - [Instagram](https://www.instagram.com/lai.d.hoang/)
 - [laidinhhoang16@gmail.com](mailto:laidinhhoang16@gmail.com)
+
+<br>
+<br>
+<br>
+
+<p align="center"> view check =))<br><br><img src="https://count.getloli.com/get/@laihoang?theme=moebooru-h" /></p>
+
 <!--
 **Lai-Hoang/lai-hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
