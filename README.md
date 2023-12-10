@@ -10,7 +10,7 @@ nothing@hoang:~$ lai-hoang > README.md
 </p><br><br>
 
 **About me**
-<img align="right" src="https://media.discordapp.net/attachments/797801880055054367/1183254635050455080/image.png?ex=6587aac0&is=657535c0&hm=0e11cbab5964c649e93ed57194e64857f138bb791202643f266b7001bb822e57&=&format=webp&quality=lossless&width=500&height=300" />
+<img align="right" src="https://media.discordapp.net/attachments/797801880055054367/1183254635050455080/image.png?ex=6587aac0&is=657535c0&hm=0e11cbab5964c649e93ed57194e64857f138bb791202643f266b7001bb822e57&=&format=webp&quality=lossless&width=350&height=300" />
 - Student
 - Introverted
 - Music
@@ -18,8 +18,8 @@ nothing@hoang:~$ lai-hoang > README.md
 - I study computer science and engineering at the university, but I don't know anything about it, including programming and related issues.<br>
 - I like it when you wear glasses like in the picture.
 <br>
-<br>
 
+<br>
 **Contact me**
 <img align="right" src="https://lanyard.cnrad.dev/api/470852879855648769?theme=dark&bg=3A405A&hideDiscrim=true&borderRadius=30px" />
 - [Discord](https://discord.com/users/470852879855648769)
