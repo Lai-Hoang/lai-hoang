@@ -3,10 +3,10 @@ nothing@hoang:~$ lai-hoang > README.md
 ```
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 
-<p align="center"> Alone </p>
+<p align="center"> hmmm </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/797801880055054367/1183243223926321243/113845495_p1.jpg?ex=6587a020&is=65752b20&hm=9de4c89c3b27d8cf858b586560d1b5b5eaa7a4ab9c1868b2a543a1ad043ec3a0&=&format=webp&width=1366&height=768" />
+<img src="https://cdn.discordapp.com/attachments/617609400894357526/1185501805111672832/85527668_p0.png?ex=658fd797&is=657d6297&hm=57c3f79f45298e186dee5f0a91496f118a92e38d6cc1312c9651804d6a7e6f52&format=webp&width=1366&height=768" />
 </p><br><br>
 
 **About me**
