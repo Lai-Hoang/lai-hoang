@@ -6,7 +6,8 @@ nothing@hoang:~$ lai-hoang > README.md
 <p align="center"> hmmm </p>
 
 **About me**
-- nothing 🙂...<br>
+- 23 years old.
+- and nothing 🙂...<br>
 
 
 **Contact me**
